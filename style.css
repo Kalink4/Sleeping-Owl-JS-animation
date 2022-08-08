@@ -1,0 +1,21 @@
+.images{
+    position: absolute;
+    width: 40%;
+}
+#opendEyes{
+    opacity: 0;
+    
+
+}
+#closedEyes{
+    transform: rotate(25deg);
+    opacity: 1;
+    
+}
+#head{
+    transform: rotate(25deg);
+}
+
+#404_not_found{
+    font-size: 250%;
+}
